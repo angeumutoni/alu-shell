@@ -2,7 +2,7 @@
 # This script displays display hours from 0 to 12 and minutes from 1 to 59
 h="0"
 while [ $h -lt 13 ] ; do
-echo "hour: $h"
+echo "Hour: $h"
 s="1"
 while [ $s -lt 60 ] ; do
 echo "$s"
